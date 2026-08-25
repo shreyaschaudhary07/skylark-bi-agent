@@ -1,6 +1,8 @@
 # Skylark BI Agent — Monday.com Business Intelligence
 
-An AI-powered business intelligence agent that connects to Monday.com boards (Work Orders & Deals) and answers founder-level business questions through a conversational interface.
+🌐 **Live Hosted Prototype:** [https://skylark-bi-agent-nine.vercel.app](https://skylark-bi-agent-nine.vercel.app)
+
+An AI-powered business intelligence agent that connects to Monday.com boards (Work Orders & Deals) and answers founder-level business questions through an interactive 3D command center interface.
 
 ![Tech Stack](https://img.shields.io/badge/Next.js-14-black) ![AI](https://img.shields.io/badge/Gemini-2.0_Flash-blue) ![Platform](https://img.shields.io/badge/Monday.com-API_v2-ff6d00)
 
